@@ -25,7 +25,7 @@ The analysis is divided into **six distinct tasks**, each focusing on a differen
 
 **Key Findings:**
 * The separation of Group A and Group B reveals distinct trajectories in the early trials.
-* [Add any specific observation here, e.g., "Group A had a streak of heads early on..."]
+
 
 ---
 
